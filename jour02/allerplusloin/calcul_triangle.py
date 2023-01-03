@@ -52,5 +52,4 @@ def triangle(a,b,c):
         typeTriangle(a,b,c)
 
 
-
 triangle(4,5,5)
